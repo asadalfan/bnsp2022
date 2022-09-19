@@ -1,0 +1,4 @@
+#Mon Sep 19 13:40:14 ICT 2022
+base.0=G\:\\\#Skripsi Aplikasi\\bnsp\\Sertifikasi-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
